@@ -2,7 +2,8 @@ Conversor de Moedas
 
 Imagem do projeto:
 
-![image](https://github.com/user-attachments/assets/946a9a02-afb0-48b8-8cd1-4794569c0289)
+![image](https://github.com/user-attachments/assets/a567fb80-591d-4292-a9a1-db05ff2dc316)
+
 
 🚀 Tecnologias Esse projeto foi desenvolvido com as seguintes tecnologias:
 
